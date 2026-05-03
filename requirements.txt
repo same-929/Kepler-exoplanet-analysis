@@ -4,3 +4,4 @@ matplotlib
 lightkurve
 astroquery
 jupyter
+scikit-learn
