@@ -15,6 +15,10 @@
 ## 数据来源
 NASA Exoplanet Archive - Kepler-10b (真实行星) ，KOI-1684.01 (假阳性）
 
+## 运行环境
+- Python 3.9+
+- 依赖库见 `requirements.txt`
+  
 ## 运行方法
 1. `pip install -r requirements.txt`
 2. `jupyter notebook kepler_analysis.ipynb`
@@ -24,6 +28,10 @@ NASA Exoplanet Archive - Kepler-10b (真实行星) ，KOI-1684.01 (假阳性）
 - `Kepler_analysis.html`: 导出的结题报告
 - `real_vs_false.png`: 真假信号对比图
 - `requirements.txt`: Python 依赖列表
+
+## 结果示例
+<img width="1000" height="400" alt="transit_detection" src="https://github.com/user-attachments/assets/d8e7f34d-056b-4177-b96c-a06b55bc6419" />
+<img width="1000" height="400" alt="folded_lightcurve" src="https://github.com/user-attachments/assets/c92ca965-a998-4a2c-90c9-34d07b8c0231" />
 
 ## 作者
 @same-929
