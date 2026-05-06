@@ -53,6 +53,10 @@ NASA Exoplanet Archive - Kepler-10b (真实行星) ，KOI-1684.01 (假阳性）
 <img width="1000" height="400" alt="transit_detection" src="https://github.com/user-attachments/assets/d8e7f34d-056b-4177-b96c-a06b55bc6419" />
 <img width="1000" height="400" alt="folded_lightcurve" src="https://github.com/user-attachments/assets/c92ca965-a998-4a2c-90c9-34d07b8c0231" />
 
+## 相关文章
+我是如何用Pandas从Kepler数据中发现系外行星的 - same的文章 - 知乎
+https://zhuanlan.zhihu.com/p/2035464878983491815
+
 ## 作者
 @same-929
 
