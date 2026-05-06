@@ -3,8 +3,8 @@
 本项目使用开普勒太空望远镜公开的光变曲线数据，通过**相位折叠**和 **3-sigma 阈值法**自动检测系外行星的凌星信号,并与**机器学习方法** (随机森林) 进行对比。
 
 ## 最终成果
--[Kepler_analysis.ipynb](https://github.com/user-attachments/files/27317836/Kepler_analysis.ipynb)
--[Kepler_analysis.html](https://github.com/user-attachments/files/27317831/Kepler_analysis.html)
+-[Kepler_analysis.ipynb](https://github.com/user-attachments/files/27438832/Kepler_analysis.ipynb)
+-[Kepler_analysis.html](https://github.com/user-attachments/files/27438835/Kepler_analysis.html)
 - 真实行星 (Kepler-10b) VS 假阳性 (KOI-1684.01) 对比图: <img width="1400" height="400" alt="real_vs_false" src="https://github.com/user-attachments/assets/3440e198-28f5-4f48-8448-ce29245fba13" />
 
 ## 主要结果
